@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Corn Sugar",
+    "temperature": 70.0000000,
+    "type": 0,
+    "primer": "Corn Sugar",
+    "carbonation_rate": 100.0000000,
+    "notes": "Use corn sugar for priming the beer"
+  },
+  {
+    "name": "Dry Malt Extract",
+    "temperature": 70.0000000,
+    "type": 0,
+    "primer": "Dry Malt Extract",
+    "carbonation_rate": 65.0000000,
+    "notes": "Dry malt extract is max 65% fermentable (relative to corn sugar) if fresh.  If the DME is not fresh you should reduce this by about 10%"
+  },
+  {
+    "name": "Honey",
+    "temperature": 70.0000000,
+    "type": 0,
+    "primer": "Honey",
+    "carbonation_rate": 90.5000000,
+    "notes": "Honey is highly fermentable, but can take a very long time to reach full carbonation"
+  },
+  {
+    "name": "Keg",
+    "temperature": 45.0000000,
+    "type": 1,
+    "primer": "Forced Carbonation",
+    "carbonation_rate": 100.0000000,
+    "notes": "Keg with forced carbonation which is the method used by most home brewers with kegs"
+  },
+  {
+    "name": "Keg with Corn Sugar",
+    "temperature": 70.0000000,
+    "type": 2,
+    "primer": "Corn Sugar",
+    "carbonation_rate": 100.0000000,
+    "notes": "Naturally carbonate the beer using corn sugar"
+  },
+  {
+    "name": "Keg with Table Sugar",
+    "temperature": 70.0000000,
+    "type": 2,
+    "primer": "Table Sugar",
+    "carbonation_rate": 109.9000000,
+    "notes": "Use table sugar to naturally carbonate the keg"
+  },
+  {
+    "name": "Table Sugar",
+    "temperature": 70.0000000,
+    "type": 0,
+    "primer": "Table Sugar",
+    "carbonation_rate": 109.9000000,
+    "notes": "Table sugar has no water and is slightly more effective than corn sugar"
+  },
+  {
+    "name": "None - Bottle",
+    "temperature": 70.0000000,
+    "type": 0,
+    "primer": "None",
+    "carbonation_rate": 0.0000000,
+    "notes": ""
+  },
+  {
+    "name": "None - Keg",
+    "temperature": 70.0000000,
+    "type": 1,
+    "primer": "None",
+    "carbonation_rate": 0.0000000,
+    "notes": ""
+  }
+]
